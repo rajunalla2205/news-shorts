@@ -62,7 +62,7 @@ const News = () => {
     return(
         <>
         <div>
-        <h1 style={{textAlign:"center", fontFamily: "Trirong Font"}}>Latest News</h1>
+        <h1 style={{textAlign:"center", fontFamily: "Trirong Font"}}>News Cards</h1>
         {
             CATAGEROIES.map((catg, index) =>{
                 return(
